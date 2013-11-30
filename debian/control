@@ -1,0 +1,12 @@
+Source: ros-hydro-grizzly-gazebo
+Section: misc
+Priority: extra
+Maintainer: Yan Ma <yanma@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-grizzly-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-grizzly-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-gazebo-ros, ros-hydro-grizzly-description, ros-hydro-grizzly-gazebo-plugins, ros-hydro-grizzly-motion
+Description: Example launchfiles for working with the Grizzly simulator.
