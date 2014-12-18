@@ -1,0 +1,12 @@
+Source: ros-indigo-grizzly-gazebo
+Section: misc
+Priority: extra
+Maintainer: Yan Ma <yanma@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-grizzly-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-grizzly-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-gazebo-ros, ros-indigo-grizzly-description, ros-indigo-grizzly-gazebo-plugins, ros-indigo-grizzly-motion, ros-indigo-grizzly-navigation, ros-indigo-hector-gazebo-plugins
+Description: Example launchfiles for working with the Grizzly simulator.
