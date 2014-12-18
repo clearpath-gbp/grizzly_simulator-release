@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>grizzly_gazebo</name>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <description>Example launchfiles for working with the Grizzly simulator.</description>
   <maintainer email="yanma@clearpathrobotics.com">Yan Ma</maintainer>
   <license>BSD</license>
@@ -11,7 +11,9 @@
   <run_depend>gazebo_ros</run_depend>
   <run_depend>grizzly_description</run_depend>
   <run_depend>grizzly_motion</run_depend>
+  <run_depend>grizzly_navigation</run_depend>
   <run_depend>grizzly_gazebo_plugins</run_depend>
+  <run_depend>hector_gazebo_plugins</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
