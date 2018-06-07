@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>grizzly_simulator</name>
-  <version>0.2.0</version>
+  <version>0.3.0</version>
   <description>Metapackage allowing easy installation of Grizzly simulation components.</description>
 
   <maintainer email="yanma@clearpathrobotics.com">Yan Ma</maintainer>
@@ -10,7 +10,6 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>grizzly_gazebo</run_depend>
-  <run_depend>grizzly_gazebo_plugins</run_depend>
 
   <export><metapackage/></export>
 </package>
