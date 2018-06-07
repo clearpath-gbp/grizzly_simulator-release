@@ -1,0 +1,24 @@
+ros-kinetic-grizzly-gazebo (0.3.0-0jessie) jessie; urgency=high
+
+  * Upgrading simulation to kinetic
+  * Rename control.launch to localization.launch
+  * Contributors: Mohamed Elshatshat, Shokoofeh Pourmehr
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Thu, 07 Jun 2018 04:00:00 -0000
+
+ros-kinetic-grizzly-gazebo (0.2.0-0jessie) jessie; urgency=high
+
+  * replace robot_pose_ekf with robot_localization
+  * add run dependency to hector_gazebo_plugins
+  * Add grizzly_navigation dependency.
+  * Contributors: Mike Purvis, Shokoofeh Pourmehr
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Thu, 18 Dec 2014 05:00:00 -0000
+
+ros-kinetic-grizzly-gazebo (0.1.0-0jessie) jessie; urgency=high
+
+  * Launch file for basic simulator config.
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Sat, 30 Nov 2013 05:00:00 -0000
+
+
