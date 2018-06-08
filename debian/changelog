@@ -1,0 +1,27 @@
+ros-kinetic-grizzly-simulator (0.3.1-0xenial) xenial; urgency=high
+
+  * Removed un-used args and multimaster.  Updated maintainer.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Fri, 08 Jun 2018 04:00:00 -0000
+
+ros-kinetic-grizzly-simulator (0.3.0-0xenial) xenial; urgency=high
+
+  * Upgrading simulation to kinetic
+  * Contributors: Mohamed Elshatshat
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Thu, 07 Jun 2018 04:00:00 -0000
+
+ros-kinetic-grizzly-simulator (0.2.0-0xenial) xenial; urgency=high
+
+
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Thu, 18 Dec 2014 05:00:00 -0000
+
+ros-kinetic-grizzly-simulator (0.1.0-0xenial) xenial; urgency=high
+
+  * Metapackage for simulator
+
+ -- Yan Ma <yanma@clearpathrobotics.com>  Sat, 30 Nov 2013 05:00:00 -0000
+
+
