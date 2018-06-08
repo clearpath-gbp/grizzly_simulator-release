@@ -2,6 +2,11 @@
 Changelog for package grizzly_simulator
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.1 (2018-06-08)
+------------------
+* Removed un-used args and multimaster.  Updated maintainer.
+* Contributors: Tony Baltovski
+
 0.3.0 (2018-06-07)
 ------------------
 * Upgrading simulation to kinetic
