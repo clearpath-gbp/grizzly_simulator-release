@@ -1,3 +1,28 @@
+## grizzly_simulator (kinetic) - 0.3.1-0
+
+The packages in the `grizzly_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release grizzly_simulator -r kinetic -t kinetic` on `Fri, 08 Jun 2018 17:26:18 -0000`
+
+These packages were released:
+- `grizzly_gazebo`
+- `grizzly_simulator`
+
+Version of package(s) in repository `grizzly_simulator`:
+
+- upstream repository: https://github.com/g/grizzly_simulator.git
+- release repository: https://github.com/clearpath-gbp/grizzly_simulator-release.git
+- rosdistro version: `0.3.0-0`
+- old version: `0.3.0-0`
+- new version: `0.3.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## grizzly_simulator (kinetic) - 0.3.0-0
 
 The packages in the `grizzly_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release grizzly_simulator -t kinetic -r kinetic --new-track` on `Thu, 07 Jun 2018 13:15:16 -0000`
